@@ -51,7 +51,7 @@ The simulated email used a refund-related financial incentive and urgency to enc
 
 ## Investigation Report
 
-**[View Full SOC Phishing Investigation Report](SOC_Phishing_Investigation_Report.pdf)**
+[View Full SOC Phishing Investigation Report](SOC_Portfolio_Phishing_Investigation.pdf)
 
 The PDF includes investigation findings, Microsoft Defender screenshots, KQL hunting queries, quarantine verification, URL-click evidence, and the final analyst assessment.
 
